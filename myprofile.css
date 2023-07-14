@@ -1,0 +1,92 @@
+
+  .wrapper5
+  {
+    background: rgba(255, 255, 255,0.1);
+    box-shadow: 0 20px 50px rgba(0,0,0,0.15);
+   position: fixed;
+   top: 0%;
+    display: flex;
+    flex-flow: column;
+    backdrop-filter: blur(8.5px);
+    text-align:center;
+   margin-left: 33%;
+    margin-top: 5%;
+   width: 35%;
+    height: 80vh;
+   
+  }
+  .over5{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+  }
+  .title-login5 h3
+  {
+    margin-top: 2%;
+    align-items: center;
+    font-size: 45px;
+    color:rgb(249, 248, 248);
+    font-weight: 700;
+  }
+  .home5 a{
+    
+    color:rgb(141, 160, 166);
+    font-size: 27px;
+    font-size: 700;
+    margin-left: 70%;
+  }
+
+  .icon{
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    color:white;
+  }
+  .ppprofile{
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .first5 .text5
+  {
+  
+   height: 70px;
+   width: 250px;
+   
+  
+  }
+  .first5 input{
+    width:150%;
+    height: 55px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 17px;
+    border-color: aliceblue;
+    margin-left: 32%;
+  }
+  .second5 .text5
+  {
+    
+    height: 70px;
+    width: 250px;
+    
+    
+  }
+  .second5 input{
+    width:150%;
+    height: 55px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 17px;
+    border-color: aliceblue;
+    margin-left: 32%;
+  }
+  .field-btn5 input{
+    width: 50%;
+    height: 40px;
+    border-radius: 15px;
+    border-color: aliceblue;
+    font-size: 18px;
+    font-weight: 700;
+    
+  }

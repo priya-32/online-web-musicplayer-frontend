@@ -1,0 +1,10 @@
+.icons{
+    height: 50%;
+    width: 50%;
+  }
+  .home{
+    color: black;
+  }
+  .home:hover{
+    color: rgb(55,3,3);
+  }
